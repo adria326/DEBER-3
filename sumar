@@ -1,0 +1,15 @@
+#Realice un programa que solicite al usuario dos números los sume y muestre el resultado de la suma en pantalla,
+#luego que solicite al usuario ingresar un tercer número, el programa debe mostrar en pantalla. 
+#el resultado de la multiplicación de este nuevo número por el resultado de la suma anterior.
+
+n1 = float(input("ing un valor: "))
+n2 = input("ing un valor: ")
+
+s = 1 + 2
+
+print(s)
+
+n3 =float(input("ing un ter valor: "))
+r = (3 * 3) 
+
+print(r)
