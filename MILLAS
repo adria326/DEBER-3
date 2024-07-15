@@ -1,0 +1,10 @@
+#Realice un programa que convierta millas a kilómetros.
+#Se sabe que una milla equivale a 1.609344 kilómetros.
+
+m =float(input("introduce a m: "))
+k =(input("introduce a k: "))
+
+m = m* 1.609344
+
+r = m
+print(r)
