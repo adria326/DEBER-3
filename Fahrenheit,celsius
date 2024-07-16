@@ -1,0 +1,7 @@
+#realice un valor ingresado
+#a temperatura en escala fahrenheit y lo convierta a grados celsius.
+
+fahrenheit = float(input("ing la tem en grad fahrenheit: "))
+celsius = (5/9) * (fahrenheit - 32)
+
+print(celsius)
