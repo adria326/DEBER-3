@@ -1,0 +1,9 @@
+#numero pequeño#
+
+n = int(input("ing un numero del 1 al 100: "))
+if n < 100:
+
+    print("numero pequeño")
+else:
+    print("numero grande")
+print(n)
