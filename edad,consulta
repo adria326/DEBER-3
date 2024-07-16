@@ -1,0 +1,10 @@
+#edad y consulta#
+
+edad = int(input("ingr su edad: "))
+producto = int(input("ingr la cant de art comprados: "))
+
+edad= edad > 18
+producto = producto >1
+
+r = edad and producto
+print(r)
