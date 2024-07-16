@@ -1,0 +1,6 @@
+#concatenacion#
+p1 = float(input("ing la primer p: "))
+p2 = input("ing la seg p: ")
+
+r = 1 +  + 2
+print(r)
