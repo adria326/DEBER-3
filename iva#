@@ -1,0 +1,5 @@
+#Determinar el valor total del iva#
+
+valor = float(input("ingres el valor de iva: "))
+iva = 0.15 * valor
+print(iva)
